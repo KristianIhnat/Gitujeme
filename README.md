@@ -1,1 +1,2 @@
 # Gitujeme
+presne tak jo
