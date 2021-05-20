@@ -1,2 +1,2 @@
 # Gitujeme
-presne tak jo
+skusame
